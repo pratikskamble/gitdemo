@@ -8,6 +8,5 @@ int main (){
 
     printf("c = %f", ((9/5) * (f-32)));
     return 0;
-
-    
+  
 }
